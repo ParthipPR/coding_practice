@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\Users\dell\Desktop\coding_practice\learning_java\.metadata\.plugins\org.eclipse.jdt.core
+1673007873.index
+2598095372.index
+77818369.index
+3074662822.index
+1237453205.index
+807846221.index
+2709368268.index
+1865797976.index
+1518307661.index
+43271272.index
+1116415251.index
+2580081939.index

@@ -1,0 +1,23 @@
+1671710445398	Delete element
+1671716833625	Delete element
+1671735000948	Delete element
+1671735013972	Delete element
+1671735017803	Delete element
+1671735029509	Delete element
+1671735040274	Delete element
+1671735058036	Delete elements
+1671735070381	Delete elements
+1671736164667	Delete elements
+1671880216889	Encapsulate field 'roundTopLeft'
+1671880227861	Encapsulate field 'roundTopRight'
+1671880262906	Encapsulate field 'roundDownLeft'
+1671880271237	Encapsulate field 'roundDownRight'
+1671882512291	Rename package 'com.raven.component'
+1671882545430	Rename package 'com.raven.dialog'
+1671882591322	Rename package 'com.raven.event'
+1671882611232	Rename package 'com.raven.model'
+1671882649388	Rename package 'com.raven.form'
+1671882665210	Rename package 'com.raven.icon'
+1671882701350	Rename package 'com.raven.main'
+1671882722059	Rename package 'com.raven.swing'
+1671883892145	Encapsulate field 'jLabel2'
