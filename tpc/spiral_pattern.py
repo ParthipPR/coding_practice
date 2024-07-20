@@ -15,11 +15,7 @@ size = int(input())
 for i in range(size):
     ele = input()
     a.append(ele)
-"""
-for i in range(size):
-    for j in range(size):
-        print(a[i][j])
-"""
+
 
 
 #Operation
@@ -48,4 +44,3 @@ if rs == re:
 
 #Output
 print(ch)
-
